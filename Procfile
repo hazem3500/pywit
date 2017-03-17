@@ -1,1 +1,1 @@
-web: python examples/messenger.py
+web: python messenger.py
